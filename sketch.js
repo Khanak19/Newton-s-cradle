@@ -55,7 +55,7 @@ function draw() {
  
   
  
- 
+ drawSprites();
 }
 function keyPressed() {
 	if (keyCode === UP_ARROW) {
